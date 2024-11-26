@@ -1,0 +1,38 @@
+JSON
+{
+"type": "FeatureCollection",
+"name": "LVM_SABIEDRIBAI_NOZIMIGAS_VIETAS_Shape", "crs": {
+"type": "name", "properties": {
+"name": "urn:ogc:def:crs:EPSG::3059" }
+}, "features": [
+{
+"type": "Feature", "properties": {
+"PLACENAME": "Atpūtas vieta pie Kaļņa ezera", "PLACESUBTY": 2,
+"REG_CODE": "1",
+"LVM_DISTRI": "22128",
+"BLOCKKEY": "111-633" },
+"geometry": {
+"type": "Point",
+"coordinates": [680527.9781001691, 332724.626692906] }
+}, {
+"type": "Feature", "properties": {
+"PLACENAME": "Piemiņas vieta \"Īles bunkurs\"", "PLACESUBTY": 8,
+"REG_CODE": "6",
+"LVM_DISTRI": "22625",
+"BLOCKKEY": "606-84" },
+"geometry": {
+"type": "Point",
+"coordinates": [433957.6724999969, 271032.41279998235]
+} },
+{
+"type": "Feature", "properties": {
+"PLACENAME": "Atpūtas vieta pie Pinku ezera", "PLACESUBTY": 2,
+"REG_CODE": "2",
+"LVM_DISTRI": "22221",
+"BLOCKKEY": "201-332" },
+"geometry": {
+
+"type": "Point",
+"coordinates": [359822.4318998683, 319740.1100984672] }
+} ]
+}

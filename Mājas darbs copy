@@ -1,0 +1,16 @@
+<!DOCTYPE html> <html lang="lv"> <head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>Karte - Atpūtas Vietas</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" /> <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<style>
+/* Kartes izmērs aizņem visu logu */ #map {
+height: 100vh;
+margin: 0; }
+h1{
+text-align: center; font-family: Arial, sans-serif; color: #333;
+} </style>
+</head> <body>
+<h1>Atpūtas Vietu Karte</h1>
+<div id="map"></div>
+<script src="karte_final.js"></script>
+</body> </html>
